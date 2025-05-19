@@ -1,0 +1,39 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 1rem 2rem;
+}
+.title {
+  font-weight: 400;
+}
+
+#temperatureUnit {
+  width: 3rem;
+  outline: none;
+  text-align: center;
+}
+#temperatureUnit,
+#fromUnit,
+#toUnit {
+  border-radius: 10px;
+  padding: 0.5rem;
+}
+#convert-btn {
+  padding: 0.5rem 1rem;
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+#result {
+  color: rgb(29, 198, 29);
+}
