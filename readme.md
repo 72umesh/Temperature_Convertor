@@ -4,7 +4,7 @@ A simple web-based Temperature Converter that allows you to convert values betwe
 
 ## Project URL
 
-👉 [Live Demo](https://72umesh.github.io/Temperature_Convertor/)
+👉 [Project Page URL](https://72umesh.github.io/Temperature_Convertor/)
 
 ## Features
 
